@@ -1,0 +1,7 @@
+numpy
+sounddevice
+keyboard
+requests
+scipy
+faster-whisper
+piper-tts
