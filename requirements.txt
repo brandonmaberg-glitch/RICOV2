@@ -7,3 +7,5 @@ faster-whisper
 piper-tts
 sentence-transformers
 pytest
+
+pathvalidate>=3.2.0
